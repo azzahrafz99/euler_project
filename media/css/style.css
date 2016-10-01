@@ -1,0 +1,51 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #F2F1EF;
+	font-family: 'geosanslightregular';
+	font-size: 18px;
+}
+
+.header{
+	font-family: 'bebas_neueregular';
+	font-size: 20px;
+	background-color: #EB6361;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 2px;
+}
+
+.logo {
+	height: 100px;
+	width: 100px;
+}
+
+.main p{
+	margin-top: 50px;	
+}
+
+input[type=text]{
+	padding: 8px;
+	width: 200px;
+	border-radius: 3px;
+	border: 1px solid #D2D7D3;
+}
+
+button{
+	background: #EB6361;
+	border: 0px;
+	padding: 8px;
+	width: 50px;
+	color: white;
+	font-size: 16px;
+	border-radius: 3px;
+}
+
+button:hover{
+	background: #f28c8c;
+}
+
+.result p{
+	font-size:50px;
+	color: #D33257;
+}
